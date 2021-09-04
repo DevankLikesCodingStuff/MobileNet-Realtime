@@ -1,0 +1,50 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float: none;
+    background: white ; 
+    padding: 15px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ .result_para_tag span
+ {
+   white-space: pre-line;
+ }
+ .copy_right_footer
+ {
+   position:fixed;
+   color:rgb(177, 65, 252);
+   font-weight: bold;
+   bottom: 0;
+   width: 100%;
+  background-color: rgb(130, 207, 207);
+  line-height: 3;
+  text-align: center;
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 20px;
+ }
+
+ canvas
+ {
+   border: 5px solid white;
+   border-radius: 20px;
+   box-shadow: 10px 10px 6px violet;
+   margin-top: 160px;
+ }
